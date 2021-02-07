@@ -1,9 +1,11 @@
+// User-specific
 expressions/
 save/
 
 cfg/config.cfg
 cfg/server_blacklist.txt
 
+// Temp Files
 sound/sound.cache
 GameState.txt
 demoheader.tmp
@@ -11,8 +13,9 @@ ep1_gamestats.dat
 modelsounds.cache
 stats.txt
 voice_ban.dt
-
-//VPKs
-hl1_assets.vpk
-
 console.log
+hl1_assets.vpk.sound.cache
+*.lnk
+
+// VPKs
+hl1_assets.vpk
