@@ -16,6 +16,7 @@ voice_ban.dt
 console.log
 hl1_assets.vpk.sound.cache
 *.lnk
+maps/graphs
 
 // VPKs
 hl1_assets.vpk
